@@ -1,0 +1,19 @@
+First impressions
+
+C like syntax is not great
+std::io
+Double colon stuff is more typing than . in other languages
+
+I keep forgetting the ! for things like assert!
+
+Vectors instead of "list"
+
+
+Imports
+prelude convention for * imports
+Otherwise explicit
+
+
+Returns, putting a semi-colon after the last value broke the program
+
+
